@@ -1,0 +1,33 @@
+{"User": {
+  "firstTimeUser": "No"
+ },
+ "UserAccountInfo": {
+  "Name": "Amir Saliola",
+  "UserName": "",
+  "Email": "",
+  "2ndEmail": "",
+  "Country": "",
+  "PhoneNumber": ""
+ },
+ "UserSettings": {
+  "Customisation": {
+    "Theme": "",
+    "FontSize": "",
+    "HomePage": "/Docs/HTML/Home.html",
+    "Background": "",
+    "Colors": ""
+  },
+  "Notifications": {
+    "Enabled": false,
+    "Sound": false
+  },
+  "PrivacyAndProtection": {
+    "TrackingProtection": false,
+    "AdBlocker": false,
+    "DoNotTrack": false,
+    "PassWord": "",
+    "AccountRecoveryKey": ""
+  },
+  "Language": "English",
+  "SearchEngine": ""
+ }}
